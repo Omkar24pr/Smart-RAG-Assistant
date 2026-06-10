@@ -1,6 +1,6 @@
 # Info Finder: RAG Router Agent & Telemetry Dashboard
 
-> 👨‍💻 **Made by [Omkar Prajapati](https://github.com/omkar-prajapati)**
+> 👨‍💻 **Made by [Omkar Prajapati](https://github.com/Omkar24pr)**
 
 An end-to-end, production-grade Retrieval-Augmented Generation (RAG) system built with **FastAPI**, **LangGraph**, **Astra DB (Cassandra)**, and **Groq LLM (Llama 3.3)**.
 
